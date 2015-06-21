@@ -1,0 +1,21 @@
+{
+  "name": "stream-handbook-examples",
+  "version": "0.0.1",
+  "description": "Examples from James Halliday's Stream Handbook",
+  "main": "example1.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pahund/stream-handbook-examples.git"
+  },
+  "author": {
+    "name": "Patrick Hund",
+    "url": "https://github.com/pahund"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+    "oppressor": "0.0.1"
+  }
+}
